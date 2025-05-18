@@ -1,5 +1,5 @@
 import java.util.*;
-public class Variation2Optimal {
+public class Variation2Optimized {
     static void pascalTriangle(int n){
         long ans = 1;
         System.out.print(ans + " ");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Variation3Optimal {
+public class Variation3Optimized {
     public static List<Integer> generateRow(int row){
         long ans = 1;
         List<Integer> ansRow = new ArrayList<>();
